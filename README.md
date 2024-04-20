@@ -1,6 +1,19 @@
-# SinergIA-Hackathon
+<p><img alt="Colaboratory logo" width="270" height="110" src="https://media.discordapp.net/attachments/1221133702638338190/1231107633889542225/Untitled8_20240420000201.PNG?ex=6635c154&is=66234c54&hm=180cc4497fc7fd9dfadba50c9f008ff4ed057deb6bbd946712c1d68cd54e612c&=&format=webp&quality=lossless&width=1025&height=342" align="left" hspace="15px" ></p>
 
-## Proyecto: Cuidado Vital
+
+<h1>SinergIA UdeA</h1>
+
+----
+<b>Cuidado Vital</b> <br> reto #4
+
+<div align="left">
+<font size=3>
+ <br><br>
+  
+</font>
+</div>
+
+
 
 ### Desafío
 
@@ -30,7 +43,4 @@ La aplicación propuesta agiliza el proceso de recolección de datos en situacio
 
 El problema principal radica en la falta de una adecuada recolección de datos en momentos críticos que deben ser documentados, lo que dificulta la identificación de las necesidades de atención médica y la evaluación de la calidad de la atención.
 
-### Datos Relevantes
-
-Según estadísticas, aproximadamente 98,000 personas mueren cada año debido a errores médicos y deficiencias en la atención, especialmente en áreas de cuidado crítico.
 
