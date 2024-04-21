@@ -43,4 +43,8 @@ La aplicación propuesta agiliza el proceso de recolección de datos en situacio
 
 El problema principal radica en la falta de una adecuada recolección de datos en momentos críticos que deben ser documentados, lo que dificulta la identificación de las necesidades de atención médica y la evaluación de la calidad de la atención.
 
+### Resultados
 
+[Dashboard](https://sinerg-ia-front.vercel.app/dashboar)
+
+[Presentación](https://www.canva.com/design/DAGC5cEFdwE/OefR8m0Xv6vXzF3gwX3iMw/edit?utm_content=DAGC5cEFdwE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
